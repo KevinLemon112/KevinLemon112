@@ -7,7 +7,7 @@ I’m a passionate software developer with a love for technology, problem-solvin
 
 ⚡ **Fun fact:** I have a fitness YouTube channel called [FitnessByKev](https://www.youtube.com/@FitnessByKev) – check it out!  
 
-## 🛠️ My Tech Stack  
+## 👨🏻‍💻 My Tech Stack  
 
 ### 💻 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
